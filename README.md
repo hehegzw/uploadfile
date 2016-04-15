@@ -1,0 +1,2 @@
+# uploadfile
+一个简单的，通过URLConnection实现android上传下载文件，可多文件上传，其中UploadFile是使用fileupload实现的服务器接收图片
